@@ -1,3 +1,4 @@
 Al doilea commit.
 commit din alt branch
 altceva adus tot de mihaita
+adus din feature_bugs
